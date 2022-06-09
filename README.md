@@ -81,7 +81,7 @@ Read here on how to [Deploy](https://gist.github.com/newtonkiragu/42f2500e56d9c2
 
 ### Preview
 
-[Live Link](https://insta-kram.herokuapp.com/)
+[Live Link]()
 
 ### Admin
   username - collo
