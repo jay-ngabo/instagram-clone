@@ -14,7 +14,7 @@ You need to install the following:
 
 ### Installation
 ```
-  -Git clone https://github.com/sircollo/Instagram-Clone
+  -Git clone https://github.com/jay-ngabo/Instagram-Clone
 
   -cd Instagram-Clone
 
