@@ -84,9 +84,9 @@ Read here on how to [Deploy](https://gist.github.com/newtonkiragu/42f2500e56d9c2
 [Live Link]()
 
 ### Admin
-  username - collo
+  username - GeeJay
   
-  password - testings
+  password - 
 
 ### License
 
