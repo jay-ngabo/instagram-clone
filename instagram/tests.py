@@ -25,7 +25,7 @@ class TestImageCase(TestCase):
   def setUp(self):
     self.profile = Profile(id=1, photo='test.jpg',bio='test stuff')
     self.profile.save()
-    self.user = User(username='collo')
+    self.user = User(username='Geejay')
     self.user.save()    
     self.image = Image(img='test.jpg',name='test_image',caption='test_caption',user=self.profile)
   
