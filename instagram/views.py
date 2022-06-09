@@ -125,7 +125,7 @@ def profile(request,id):
 class search_user(ListView):
   model = User
   template_name = 'search_results.html'
-  # queryset = User.objects.filter(username__icontains='collo')
+  # queryset = User.objects.filter(username__icontains='GeeJay')
   def get_queryset(self): # new
       query = self.request.GET.get('search_user')
       object_list = User.objects.filter(
