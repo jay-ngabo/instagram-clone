@@ -1,6 +1,6 @@
 # instgram-clone
 ## Author
-[Collins Sirwani](https://github.com/sircollo)
+[JACQUELINE NGABO](https://github.com/sircollo)
 
 ## Description
 This is a clone of instagram website built using Django Framework
