@@ -90,6 +90,6 @@ Read here on how to [Deploy](https://gist.github.com/newtonkiragu/42f2500e56d9c2
 
 ### License
 
-[MIT License](https://github.com/sircollo/Instagram-Clone/blob/main/license)
+[MIT License](https://github.com/jay-ngabo/Instagram-Clone/blob/main/license)
 
 Copyright (c) 2022 Collins Sirwani
