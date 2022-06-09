@@ -98,4 +98,4 @@ Copyright (c) 2022 Jacqueline Ngabo
 
 Phone : +254724764835
 
-email : ngabo.jay@gmail.c
+email : ngabo.jay@gmail.co
