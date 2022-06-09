@@ -96,4 +96,4 @@ Copyright (c) 2022 Jacqueline Ngabo
  
 # Contacts
 
-Phone : +254
+Phone : +2547247
